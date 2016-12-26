@@ -1,1 +1,1 @@
-# Hearth
+# Map-based iOS app Hearth
