@@ -1,10 +1,7 @@
 ### This app was created for my final APCS project
 
 ### What does it do?
-Our app was designed on XCode, using Apple’s Swift language
-It is a map-based app that collects the user’s geolocation data and finds the most frequented locations
-After doing so, the app renders “hotspots” around these areas
-The app also offers users the ability to drop pins in certain using touch gestures
+Our app was designed on XCode, using Apple’s Swift language. It is a map-based app that collects the user’s geolocation data and finds the most frequented locations. After doing so, the app renders “hotspots” around these areas. The app also offers users the ability to drop pins in certain using touch gestures
 
 
 ### Designer Templates
