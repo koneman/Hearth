@@ -1,5 +1,11 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+### This app was created for my final APCS project
+
+### What does it do?
+Our app was designed on XCode, using Apple’s Swift language
+It is a map-based app that collects the user’s geolocation data and finds the most frequented locations
+After doing so, the app renders “hotspots” around these areas
+The app also offers users the ability to drop pins in certain using touch gestures
+
 
 ### Designer Templates
 We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
